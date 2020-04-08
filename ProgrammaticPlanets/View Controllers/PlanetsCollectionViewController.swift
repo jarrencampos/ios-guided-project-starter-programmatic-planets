@@ -12,6 +12,8 @@ class PlanetsCollectionViewController: UICollectionViewController {
     
     // MARK: - Properties
     let planetController = PlanetController()
+    
+    
         
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
